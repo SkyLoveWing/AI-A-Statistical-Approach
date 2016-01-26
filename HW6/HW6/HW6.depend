@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1433532298 source:c:\users\kieth\google drive\cse 151\hw6\hw6\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1430439311 source:c:\users\temp\google drive\cse 151\hw3\hw3\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<algorithm>
+	<math.h>
+
+1430474652 source:c:\users\kieth\google drive\cse 151\hw3\hw3\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1429856103 source:c:\users\temp\google drive\cse 151\hw 2\hw 2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<algorithm>
+	<math.h>
+
